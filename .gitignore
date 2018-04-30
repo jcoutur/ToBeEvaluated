@@ -1,0 +1,11 @@
+target/
+.settings/
+.idea/
+*.iml
+.classpath
+.project
+.DS_Store
+/cm.yml
+.factorypath
+node_modules/
+cm-clients/cm-client-scripts/src/main/java/com/cakemail/client/scripts/local/
