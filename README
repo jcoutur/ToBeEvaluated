@@ -1,11 +1,11 @@
 Test d'évaluation Java Cakemail
 
-Quoi faire :
+Que faire :
 
-À partir du fichier eng-daily-01012018-12312018.csv vous devez être en mesure de trouvé, La température maximum et minimum par mois et la quantité total de neige reçu en 2018.
+À partir du fichier eng-daily-01012018-12312018.csv vous devez être en mesure de trouver, La température maximale et minimale par mois ainsi que la quantité totale de neige reçue en 2018.
 
-- Vous devrez fournir les tests unitaire couvrant le code écrit
+- Vous devrez fournir les tests unitaires couvrant le code écrit
 - Le raport devra être généré dans un fichier JSON
 - Vous devrez dans la mesure du possible d'utiliser le Stream API et le nouveau Date/Time api de Java 8 
 - Il y a aucune restriction de librairie 
-- Le projet maven devra être fonctionel pour les test et pour l'exécution du programme
+- Le projet maven devra être fonctionel pour les tests et pour l'exécution du programme
